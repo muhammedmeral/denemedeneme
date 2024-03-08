@@ -4,5 +4,5 @@ using UnityEngine;
 
 public class DenemeSc : MonoBehaviour
 {
-    //Bu maine yazýlmýþtýr.
+    //Bu maine b1d ye yazýlmýþtýr.
 }
